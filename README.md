@@ -25,9 +25,12 @@ arquivos, mais o prompt pronto para o agente de código executar.
 
 **Stack:** Next.js (App Router) · TypeScript · Tailwind · Supabase (Postgres, Auth, Storage, RLS) · API da Anthropic
 
-**Meu papel:** cofundador, e **56 dos 69 commits do MVP são meus**. Construí o
-produto trabalhando com agentes de IA — e foi exatamente essa rotina, a de
-reexplicar o mesmo projeto para o modelo dez vezes por dia, que virou a Kogni.
+**Meu papel:** cofundador, e dono da camada de produto que o usuário vê — a
+auditoria visual do app inteiro, a camada de design tokens, a acessibilidade e o
+orçamento de performance, a superfície de marketing e a timeline que amarra cada
+decisão à reunião em que ela foi tomada. Construí isso trabalhando com agentes de
+IA, e foi essa rotina — reexplicar o mesmo projeto para o modelo dez vezes por
+dia — que virou a Kogni.
 
 **Uma decisão que defendo:** o app roda sem `service_role_key`. Toda query passa
 pelo usuário logado e é isolada por RLS no Postgres — não existe atalho no servidor
