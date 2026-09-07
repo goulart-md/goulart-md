@@ -11,7 +11,7 @@ São Paulo · [LinkedIn](https://linkedin.com/in/heitor-goulart) · heitorgoular
 
 ## Kogni — o contexto da empresa, pronto para execução
 
-**No ar em [kogni-mvp.vercel.app](https://kogni-mvp.vercel.app)** — dá para entrar e usar.
+**MVP no ar em [kogni-mvp.vercel.app](https://kogni-mvp.vercel.app)** .
 
 Uma plataforma que transforma as reuniões e tarefas de uma empresa em contexto
 estruturado, para que ninguém — nem a IA — precise reexplicar o projeto do zero.
