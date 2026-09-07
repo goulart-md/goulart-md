@@ -11,6 +11,8 @@ São Paulo · [LinkedIn](https://linkedin.com/in/heitor-goulart) · heitorgoular
 
 ## Kogni — o contexto da empresa, pronto para execução
 
+**No ar em [kogni-mvp.vercel.app](https://kogni-mvp.vercel.app)** — dá para entrar e usar.
+
 Uma plataforma que transforma as reuniões e tarefas de uma empresa em contexto
 estruturado, para que ninguém — nem a IA — precise reexplicar o projeto do zero.
 
@@ -42,8 +44,8 @@ comerciais em andamento. <!-- TODO: quando a NG Cash fechar, o nome entra aqui -
 
 ![Lista de reuniões no Kogni, todas com Context Pack gerado](kogni-meetings.jpg)
 
-Código em `github.com/kogniai/kogni-mvp` — privado enquanto o produto não sai do
-forno, aberto para quem pedir.
+O código é privado por enquanto; a aplicação, não — o link acima abre o produto de
+verdade.
 
 ---
 
